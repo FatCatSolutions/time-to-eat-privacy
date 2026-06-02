@@ -71,7 +71,7 @@ These terms are concluded between you and the Service Provider only, and not wit
 
 ## Governing Law
 
-These terms are governed by the laws of [your country/region], without regard to its conflict-of-laws rules. You agree to the exclusive jurisdiction of the courts located in [your city/region] for any dispute arising out of these terms.
+These terms are governed by the laws of the Netherlands, without regard to its conflict-of-laws rules. You agree to the exclusive jurisdiction of the competent courts in North Holland (Noord-Holland), the Netherlands, for any dispute arising out of these terms. If you are a consumer resident in the European Union, this does not deprive you of the protection afforded by mandatory consumer-protection provisions of the law of your country of residence.
 
 ## Changes to These Terms and Conditions
 
