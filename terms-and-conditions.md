@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-These terms and conditions apply to the Time to eat app (hereby referred to as "Application") for mobile devices that was created by Andrii Kasilov (hereby referred to as "Service Provider") as a Commercial service.
+These terms and conditions apply to the Time to eat app (hereby referred to as "Application") for mobile devices that was created by FatCatSolutions (hereby referred to as "Service Provider") as a Commercial service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
@@ -26,6 +26,14 @@ Similarly, the Service Provider cannot always assume responsibility for your usa
 
 In terms of the Service Provider's responsibility for your use of the Application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the Application.
 
+## Disclaimer of Warranties
+
+The Application is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The Service Provider does not warrant that the Application will be uninterrupted, error-free, or that recipe suggestions, nutritional assumptions, or cooking instructions are accurate, complete, or suitable for your dietary, allergy, or health needs. You are responsible for verifying ingredients and instructions before relying on them.
+
+## Limitation of Liability
+
+To the maximum extent permitted by law, the Service Provider shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising out of or relating to your use of the Application. To the extent liability cannot be excluded, it is limited to the amount you paid for the Application (if any) in the twelve months preceding the claim.
+
 ## Artificial Intelligence
 
 The Application incorporates Artificial Intelligence (AI) technologies to provide certain features or services. By using the Application, you acknowledge and agree that AI may be used to process data and deliver functionalities. The Service Provider ensures that all AI usage complies with applicable laws and is designed to benefit the user experience.
@@ -50,16 +58,27 @@ The Application offers auto-renewing subscription plans that provide access to p
 - **Free Trials:** If offered, free trial periods automatically convert to a paid subscription unless cancelled before the trial ends.
 - **Refunds:** Refund requests are handled by Apple or Google according to their respective refund policies.
 
+## Apple App Store — Additional Terms (applies to the iOS version)
+
+These terms are concluded between you and the Service Provider only, and not with Apple. Apple is not responsible for the Application or its content.
+
+- Apple has no obligation to furnish any maintenance or support services for the Application.
+- In the event the Application fails to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for the Application to you; to the maximum extent permitted by law, Apple has no other warranty obligation with respect to the Application.
+- Apple is not responsible for addressing any claims by you or a third party relating to the Application, including product-liability claims, claims that the Application fails to conform to legal or regulatory requirements, and claims arising under consumer-protection or similar legislation. Such claims are governed solely by these terms and applicable law, and are the Service Provider's responsibility.
+- In the event of any third-party claim that the Application or your use of it infringes intellectual-property rights, the Service Provider (not Apple) is solely responsible for the investigation, defence, settlement, and discharge of that claim.
+- You represent that you are not located in a country subject to a U.S. Government embargo or designated a "terrorist supporting" country, and that you are not on any U.S. Government list of prohibited or restricted parties.
+- Apple and its subsidiaries are third-party beneficiaries of these terms and, upon your acceptance, will have the right to enforce these terms against you as a third-party beneficiary.
+
+## Governing Law
+
+These terms are governed by the laws of [your country/region], without regard to its conflict-of-laws rules. You agree to the exclusive jurisdiction of the courts located in [your city/region] for any dispute arising out of these terms.
+
 ## Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of **2026-05-16**.
+These terms and conditions are effective as of **2026-06-02**.
 
 ## Contact Us
 
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at [fatcatsolutions.tech@gmail.com](mailto:fatcatsolutions.tech@gmail.com).
-
----
-
-*This Terms and Conditions page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/).*
