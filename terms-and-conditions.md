@@ -15,7 +15,6 @@ The Application stores and processes personal data that you have provided to the
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
 - [Sentry](https://sentry.io/terms/)
-- [RevenueCat](https://www.revenuecat.com/terms)
 
 ## Limitations of Responsibility
 
